@@ -1,0 +1,99 @@
+{
+  "main": {
+    "id": "8ed604178dc35fd0",
+    "type": "split",
+    "children": [
+      {
+        "id": "de67d8a34bbf503f",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Symetrická_kryptografia.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a764c300e4a19cb9",
+    "type": "split",
+    "children": [
+      {
+        "id": "1223ae0a7d8f6160",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "93c91231e210cccf",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "0999c2baf7e7b95b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "aad44f11b7053a88",
+    "type": "split",
+    "children": [
+      {
+        "id": "99e84f54482853bc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4b32ccb3c536f1e7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Symetrická_kryptografia.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "de67d8a34bbf503f",
+  "lastOpenFiles": [
+    "Symetrická_kryptografia.md",
+    "LNR.png",
+    "Linearny_posuvny_register.md",
+    "PDS.md",
+    "DES_GOST.md",
+    "DES.md",
+    "kryptografia.md"
+  ]
+}

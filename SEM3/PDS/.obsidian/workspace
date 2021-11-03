@@ -1,0 +1,102 @@
+{
+  "main": {
+    "id": "e03600a417cf6d1a",
+    "type": "split",
+    "children": [
+      {
+        "id": "84c5c55814a4a042",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "cvicenia/cv1.md",
+            "mode": "preview"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "cddc154c1feb8812",
+    "type": "split",
+    "children": [
+      {
+        "id": "e0f61019915e37fe",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0d88cb023d959628",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "0e1464ee793d2122",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "90c206e143bb6797",
+    "type": "split",
+    "children": [
+      {
+        "id": "4d337d2129868469",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "91abc4b1fd249f19",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "cvicenia/cv1.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "84c5c55814a4a042",
+  "lastOpenFiles": [
+    "cvicenia/cv1.md",
+    "cvicenia/cv5.md",
+    "cvicenia/cv4.md",
+    "cvicenia/cv2.md",
+    "cvicenia/cv3.md",
+    "PDS.md",
+    "prednasky/pr1.md",
+    "LOBs.md",
+    "prednasky/pr2.md",
+    "prednasky/pr3.md"
+  ]
+}

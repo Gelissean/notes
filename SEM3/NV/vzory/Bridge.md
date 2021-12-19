@@ -1,5 +1,7 @@
 **Bridge**
 
+štrukturálny vzor
+
 Decouple an abstraction from its implementation so that the two can ary independantly
 
 oddeľuje abstrakciu od implementácie, obe zložky možno nezávisle meniť

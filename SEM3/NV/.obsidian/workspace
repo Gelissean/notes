@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Návrhové vzory.md",
-            "mode": "source"
+            "file": "vzory/xServant.md",
+            "mode": "preview"
           }
         }
       }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Návrhové vzory.md",
+                "file": "vzory/xServant.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "0e74475b7ff18917",
   "lastOpenFiles": [
+    "vzory/xServant.md",
     "Návrhové vzory.md",
-    "cvicenie_2.md",
-    "vzory/Composite.md",
-    "vzory/Builder.md",
-    "vzory/Bridge.md",
-    "vzory/Prototype.md",
     "vzory/Factory_method.md",
-    "obrazky/ukazka_buildera.png",
-    "obrazky/simpleton_potomkovia.png",
-    "vzory/Singleton.md"
+    "vzory/Template_method.md",
+    "vzory/Builder.md",
+    "cvicenie_4.md",
+    "vzory/Composite.md",
+    "cvicenie_5.md",
+    "vzory/Bridge.md",
+    "vzory/Adapter.md"
   ]
 }

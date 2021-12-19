@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "cv5.md",
+            "file": "t2.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "cv5.md",
+                "file": "t2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,7 +88,15 @@
   },
   "active": "c294be1c6562b85d",
   "lastOpenFiles": [
-    "cv5.md",
-    "PjM.md"
+    "t2.md",
+    "prezentacia_sw_pre_podporu_riadenia.md",
+    "user_story.md",
+    "P6.md",
+    "Problemy.md",
+    "cv9.md",
+    "cv8.md",
+    "cv7.md",
+    "P2.md",
+    "P3.md"
   ]
 }

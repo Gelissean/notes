@@ -17,5 +17,8 @@ v jednom kole sa šifruje iba polovica dát
 kolové kľuče sa používajú v opačnom poradí
 Symetrická kryptografia
 
-[[DES]] - americký štandard
+[[.stare/DES]] - americký štandard
 [[DES_GOST]] - sovietsky štandard
+
+[[.stare/IDEA]]
+[[.stare/AES]]

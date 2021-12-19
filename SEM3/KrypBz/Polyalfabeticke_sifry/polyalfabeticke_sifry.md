@@ -1,0 +1,1 @@
+Šifruje sa znak po znaku, ale každý znak priameho textu inak (iný kľúč).

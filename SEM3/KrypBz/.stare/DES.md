@@ -24,3 +24,4 @@ počet kľúčov $2^{56}$ sa dnes javí ako málo
 prelomenie napr. pomocou *diferenciálnou kryptoanalýzou*, zakryptovaním dvojice priamych textov s malými rozdielmi, snada odhadnúť jednotlivé bity kľúča, celkom neefektívne
 
 lineárna kryptoanalýza - útok so známym priamim textom
+![[DES_S-box_priklad.png]]

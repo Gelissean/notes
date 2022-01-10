@@ -6,13 +6,13 @@ A:
 - vypočíta $\alpha = s^a \mod p$
 - odošle $\alpha$
 - príjme $\beta$
-- vypočíta kľúč $K_A = \beta^a \mod p$
+- vypočíta kľúč $K_B = \beta^a \mod p$
 
 B:
 - zvolí b < p tajné
 - vypočíta $\beta = s^b \mod p$
 - odošle $\beta$
 - príjme $\alpha$
-- vypočíta kľúč $K_B = \alpha^a \mod p$
+- vypočíta kľúč $K_A = \alpha^a \mod p$
 
 nebezpečenstvo: zachytenie hesla ("sprostredkovanie")

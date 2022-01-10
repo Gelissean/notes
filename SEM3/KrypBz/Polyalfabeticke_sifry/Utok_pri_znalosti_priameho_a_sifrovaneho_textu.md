@@ -1,0 +1,1 @@
+pre [[Hill]], dopočítanie kľúča, dešifrovanie všetkého

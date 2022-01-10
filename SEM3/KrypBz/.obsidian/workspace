@@ -9,8 +9,9 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Asymetricka_kryptografia/Digitalny_podpis.md",
-            "mode": "preview"
+            "file": "Blokove_sifry/DES.md",
+            "mode": "preview",
+            "source": false
           }
         }
       }
@@ -68,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Asymetricka_kryptografia/Digitalny_podpis.md",
+                "file": "Blokove_sifry/DES.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +89,15 @@
   },
   "active": "bba827892cdfaa96",
   "lastOpenFiles": [
-    "Asymetricka_kryptografia/Digitalny_podpis.md",
-    "Asymetricka_kryptografia/Diffie-Hellman_vymena_klucov.md",
-    "Asymetricka_kryptografia/Hash.md",
-    "Asymetricka_kryptografia/RSA.md",
-    "Skuska-priprava.md",
-    "Blokove_sifry/AES.md",
-    "Blokove_sifry/Sifrovacie_mody.md",
     "Blokove_sifry/DES.md",
+    "Blokove_sifry/Feistel.md",
     "Blokove_sifry/IDEA.md",
-    "Blokove_sifry/GOST.md"
+    "Blokove_sifry/GOST.md",
+    "Asymetricka_kryptografia/Diffie-Hellman_vymena_klucov.md",
+    "Polyalfabeticke_sifry/Hill.md",
+    "Asymetricka_kryptografia/RSA.md",
+    "Polyalfabeticke_sifry/Vigenere.md",
+    "Polyalfabeticke_sifry/Frekvencna_analyza.md",
+    "Polyalfabeticke_sifry/polyalfabeticke_sifry.md"
   ]
 }

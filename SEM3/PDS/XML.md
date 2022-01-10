@@ -99,3 +99,14 @@ XMLForest(meno as "meno",
 - XMLComment()
 - XMLSequence()
 - XMLColAttVal()
+
+prolog - verzia
+kódovanie
+verzia, znakove sady
+dokument
+
+správnosť 
+- dobre formulovaný - vyhovuje pravidlám pre tvorbu XML
+- správny (validný) - musí spĺňať užívateľom stanovenú XML schému (dtd, xsd, ...)
+
+registrácia schémy `dbms_xmlschema.registerSchema(url,schema_dokument, TRUE, TRUE, FALSE, FALSE);`

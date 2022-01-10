@@ -1,0 +1,4 @@
+[[optimalizacia]]
+spracovanie dotazov
+
+-preskočená-

@@ -56,3 +56,7 @@ možno vytvoriť tabuľky cez
 
 pre získanie objektu z tabuľky nutné použiť value
 `select value(p) from auta_tab p;`
+
+definovat predkovu triedu pomocou `NOT FINAL`
+abstraktnu pomocou `NOT INSTANTIABLE`
+

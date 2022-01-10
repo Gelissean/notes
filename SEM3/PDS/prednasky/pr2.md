@@ -4,3 +4,5 @@
 [[record]]
 [[nested_table]]
 [[execute_immediate]]
+
+smerniky ref() a deref()

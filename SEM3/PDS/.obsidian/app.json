@@ -1,1 +1,7 @@
-{}
+{
+  "legacyEditor": false,
+  "livePreview": true,
+  "alwaysUpdateLinks": true,
+  "attachmentFolderPath": "obrazky",
+  "promptDelete": false
+}

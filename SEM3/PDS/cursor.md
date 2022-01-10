@@ -32,3 +32,26 @@ begin
 end;
  /
 ```
+
+sekvenčný - v oracle
+- záznamy spracuje sekvenčne
+posuvný
+- (scroll), prístup k vybranému záznamu
+kurzor pre zmeny
+
+príkazy:
+- declare
+- open
+- fetch
+- update/delete
+- close
+
+commit a rollback zatvárajú všetky kurzory
+
+atribúty
+- %isopen
+- %found
+- %notfound
+- %rowcount
+
+cursor xxx for update

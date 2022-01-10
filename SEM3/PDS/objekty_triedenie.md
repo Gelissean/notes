@@ -1,4 +1,5 @@
 metódy
+maximálne jednu metódu
 MAP a ORDER
 
 ```sql

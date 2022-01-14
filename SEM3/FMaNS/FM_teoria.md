@@ -9,14 +9,14 @@
 
 **operácie na fuzzy množinách**
 prienik
-$\mu_{D\cap B}(x) = min{\mu_D(x), \mu_B(x)}$
+$\mu_{D\cap B}(x) = min\{\mu_D(x), \mu_B(x)\}$
 $\mu_{D.B}(x) = \mu_D(x) . \mu_B(x)$
 $\mu_{D \lambda B}(x) = \mu_D(x).\mu_B(x)/max\{\mu_D(x),\mu_B(x),\lambda\})$
 *(Dubois a Prade, parameter* $\lambda \in <0,1>$*)*
 iné T-normy
 
 zjednotenie
-$\mu_{D\cup B}(x) = max{\mu_D(x), \mu_B(x)}$
+$\mu_{D\cup B}(x) = max\{\mu_D(x), \mu_B(x)\}$
 $\mu_{D+B}(x) = \mu_D(x) + \mu_B(x) - \mu_D(x).\mu_B(x)$
 $\mu_{D \beta B}(x) = min\{1, ((\mu_D(x))^\beta + (\mu_B(x))^\beta)^{1/\beta}\})$
 *Yager, parameter* $\beta > 1$*)*

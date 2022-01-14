@@ -29,6 +29,7 @@ Tieto hodnot sa určujú za najmenej a najviac priaznivých podmienok
 
 Hodnotu fuzzy účelovej funkcie považujeme za dostatočne veľkú na hladine dôveryhodnosti ak jej najvyššia možná hodnota pre túto hladinu je väčšia alebo rovná najmenšej možnej hodnote z množiny dostatočne veľkých hodnôt
 ![[FM_optimalizacia_dostatocne_velke.png]]
+
 ---
 **Tanaka-Asai**
 - postupne fixujeme hodnoty h na vyššie a vyššie a vždy pre hodnotu h riešime úlohu lineárneho programovania pre pôvodné x a pre pôvodnú účelovú funkciu

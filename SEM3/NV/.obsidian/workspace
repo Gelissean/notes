@@ -9,8 +9,9 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "vzory/xServant.md",
-            "mode": "preview"
+            "file": "vzory/Interpreter.md",
+            "mode": "source",
+            "source": false
           }
         }
       }
@@ -68,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "vzory/xServant.md",
+                "file": "vzory/Interpreter.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +89,15 @@
   },
   "active": "0e74475b7ff18917",
   "lastOpenFiles": [
-    "vzory/xServant.md",
+    "vzory/Interpreter.md",
+    "vzory/Chain_of_responsibility.md",
+    "vzory/State.md",
+    "vzory/Memento.md",
     "Návrhové vzory.md",
-    "vzory/Factory_method.md",
-    "vzory/Template_method.md",
-    "vzory/Builder.md",
-    "cvicenie_4.md",
-    "vzory/Composite.md",
-    "cvicenie_5.md",
+    "vzory/Decorator.md",
+    "vzory/Command.md",
     "vzory/Bridge.md",
+    "vzory/Builder.md",
     "vzory/Adapter.md"
   ]
 }

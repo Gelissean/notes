@@ -1,3 +1,4 @@
+![[navrhove_vzory_tabulka.png]]
 zoznam:
 p2
 [[Singleton]]

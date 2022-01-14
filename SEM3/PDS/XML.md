@@ -110,3 +110,5 @@ správnosť
 - správny (validný) - musí spĺňať užívateľom stanovenú XML schému (dtd, xsd, ...)
 
 registrácia schémy `dbms_xmlschema.registerSchema(url,schema_dokument, TRUE, TRUE, FALSE, FALSE);`
+
+Musime mat vytvorene directory, kde budeme schemy ukladat. Potom musime zaregistrovat schemu. Pri vytvoreni tabulky typu XML pridat aj zaregistrovanu schemu. Nasledne vytvorit trigger pred kazdym insertom, ktory bude mat za ulohu overit XML voci scheme.

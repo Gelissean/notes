@@ -35,4 +35,4 @@ map member function tried
 end;
 ```
 
-metóda order vracia porovnanie, ak je číslo väčšie tak 1, ak menšie tak 0
+metóda order vracia porovnanie, ak je číslo väčšie tak 1, ak menšie tak -1, ak rovné tak 0

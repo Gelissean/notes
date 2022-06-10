@@ -1,0 +1,1 @@
+Logická derivácia a analýza citlivosti

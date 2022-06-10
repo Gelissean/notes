@@ -1,0 +1,3 @@
+- každá vetva stromu predstavu výsledok testu
+- hierarchická štruktúra logických zákonov
+- stromová štruktúra sa získava postupným rozdeľovaním databázy pomocou postupnosti rozhodnutí

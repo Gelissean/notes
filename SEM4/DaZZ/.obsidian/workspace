@@ -1,0 +1,103 @@
+{
+  "main": {
+    "id": "607c73fa2ad05343",
+    "type": "split",
+    "children": [
+      {
+        "id": "166e24c0def66070",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Metriky pre regresné modely.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6a8ce70859a0ea69",
+    "type": "split",
+    "children": [
+      {
+        "id": "65e05b4913e909b2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d99a4ad407694730",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "1fa6a0bdb4fff9db",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "3917bc5308c6cf75",
+    "type": "split",
+    "children": [
+      {
+        "id": "75d56b3a2bd22d1d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "333968934b7137b1",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Metriky pre regresné modely.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "166e24c0def66070",
+  "lastOpenFiles": [
+    "Metriky pre regresné modely.md",
+    "Kvalita.md",
+    "Metriky pre hodnotenie viactriednych klasifikátorov.md",
+    "Metódy hodnotenia kvality.md",
+    "Metriky pre hodnotenie binárnych klasifikátorov.md",
+    "Chybová matica.md",
+    "Datamining.md",
+    "Fuzzyfikacia.md",
+    "Naive-Bayes klasifikácia.md",
+    "Zoskupovanie.md"
+  ]
+}

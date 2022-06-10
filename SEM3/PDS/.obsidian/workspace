@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "index.md",
+            "file": "prednasky/pr13.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "prednasky/pr13.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +89,15 @@
   },
   "active": "84c5c55814a4a042",
   "lastOpenFiles": [
-    "index.md",
-    "JSON.md",
-    "kolekcie.md",
-    "LOBs.md",
-    "multisets.md",
-    "nested_table.md",
-    "objekty.md",
-    "objekty_triedenie.md",
-    "optimalizacia.md",
-    "RA_operacie.md"
+    "prednasky/pr13.md",
+    "prednasky/pr12.md",
+    "prednasky/pr11.md",
+    "distribuovane_databazove_systemy.md",
+    "prednasky/pr10.md",
+    "zamky.md",
+    "prednasky/pr9.md",
+    "prednasky/pr8.md",
+    "paralelismus.md",
+    "prednasky/pr7.md"
   ]
 }

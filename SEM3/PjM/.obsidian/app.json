@@ -1,4 +1,6 @@
 {
   "alwaysUpdateLinks": true,
-  "attachmentFolderPath": "obrazky"
+  "attachmentFolderPath": "obrazky",
+  "legacyEditor": false,
+  "livePreview": true
 }

@@ -9,8 +9,9 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "t2.md",
-            "mode": "source"
+            "file": "cv9.md",
+            "mode": "source",
+            "source": false
           }
         }
       }
@@ -68,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "t2.md",
+                "file": "cv9.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +89,15 @@
   },
   "active": "c294be1c6562b85d",
   "lastOpenFiles": [
-    "t2.md",
-    "prezentacia_sw_pre_podporu_riadenia.md",
-    "user_story.md",
-    "P6.md",
-    "Problemy.md",
     "cv9.md",
-    "cv8.md",
     "cv7.md",
+    "cv5.md",
     "P2.md",
-    "P3.md"
+    "P1.md",
+    "P4.md",
+    "P3.md",
+    "cv8.md",
+    "t2.md",
+    "prezentacia_sw_pre_podporu_riadenia.md"
   ]
 }

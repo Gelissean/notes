@@ -9,7 +9,7 @@ t = (S[i] + S[j]) mod 256
 k = S[t]
 return k
 ```
-Klúč môže byť až 256*8 = 2048 bitov
+Klúč môže byť až 256\*8 = 2048 bitov
 
 inicializácia:
 ```c

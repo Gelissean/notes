@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "vzory/Interpreter.md",
+            "file": "vzory/Adapter.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "vzory/Interpreter.md",
+                "file": "vzory/Adapter.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +89,15 @@
   },
   "active": "0e74475b7ff18917",
   "lastOpenFiles": [
-    "vzory/Interpreter.md",
-    "vzory/Chain_of_responsibility.md",
-    "vzory/State.md",
-    "vzory/Memento.md",
-    "Návrhové vzory.md",
-    "vzory/Decorator.md",
-    "vzory/Command.md",
+    "vzory/Adapter.md",
+    "cvicenie_8.md",
+    "vzory/Visitor.md",
     "vzory/Bridge.md",
+    "Návrhové vzory.md",
     "vzory/Builder.md",
-    "vzory/Adapter.md"
+    "vzory/Facade.md",
+    "vzory/Singleton.md",
+    "vzory/State.md",
+    "vzory/Command.md"
   ]
 }

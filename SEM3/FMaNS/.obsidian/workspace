@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "FM_teoria.md",
+            "file": "NS_ucenie_back-propagation.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "FM_teoria.md",
+                "file": "NS_ucenie_back-propagation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +89,15 @@
   },
   "active": "e87111939626f33f",
   "lastOpenFiles": [
-    "FM_teoria.md",
-    "FM_relacia.md",
-    "FM_cisla.md",
+    "NS_ucenie_back-propagation.md",
     "FM_optimalizacia.md",
-    "NS_teoria.md",
-    "NS_so_spatnou_odozvou.md",
-    "NS_delta_odovodnenie.md",
-    "prednasky/pr7.md",
+    "prednasky/pr5.md",
+    "prednasky/pr11.md",
+    "prednasky/pr10.md",
+    "prednasky/pr8.md",
     "prednasky/pr6.md",
-    "prednasky/pr8.md"
+    "prednasky/pr7.md",
+    "prednasky/pr4.md",
+    "prednasky/pr3.md"
   ]
 }

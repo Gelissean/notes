@@ -1,4 +1,4 @@
-$y_1, y_2, \dots, y_n = E_{k_1}(x_1), E_{k_2}(x_2), \dots,  E_{k_n}(x_n)$
+$$y_1, y_2, \dots, y_n = E_{k_1}(x_1), E_{k_2}(x_2), \dots,  E_{k_n}(x_n)$$
 
 cézarovskú a vigenerovskú šifru mo%zno upraviť tak, že namiesto operácie (+) vykonáme (*) XOR
 

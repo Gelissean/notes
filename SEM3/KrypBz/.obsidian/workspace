@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "bba827892cdfaa96",
+        "id": "58fc57ae9b01f433",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Blokove_sifry/DES.md",
-            "mode": "preview",
+            "file": "Skuska-priprava.md",
+            "mode": "source",
             "source": false
           }
         }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Blokove_sifry/DES.md",
+                "file": "Skuska-priprava.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,17 +87,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "bba827892cdfaa96",
+  "active": "58fc57ae9b01f433",
   "lastOpenFiles": [
+    "Skuska-priprava.md",
+    "Blokove_sifry/AES.md",
     "Blokove_sifry/DES.md",
     "Blokove_sifry/Feistel.md",
-    "Blokove_sifry/IDEA.md",
-    "Blokove_sifry/GOST.md",
-    "Asymetricka_kryptografia/Diffie-Hellman_vymena_klucov.md",
-    "Polyalfabeticke_sifry/Hill.md",
-    "Asymetricka_kryptografia/RSA.md",
-    "Polyalfabeticke_sifry/Vigenere.md",
-    "Polyalfabeticke_sifry/Frekvencna_analyza.md",
-    "Polyalfabeticke_sifry/polyalfabeticke_sifry.md"
+    "Blokove_sifry/Sifrovacie_mody.md",
+    "Prudove_sifry/RC4.md",
+    "Prudove_sifry/GSM A5.md",
+    "Prudove_sifry/Generatory_pseudoRNG.md",
+    "Prudove_sifry/prúdové šifry.md",
+    "bezpecnost.md"
   ]
 }

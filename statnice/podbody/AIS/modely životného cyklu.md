@@ -1,0 +1,8 @@
+- základné triedy modelov
+	- vodopádový (sekvenčný)
+	- cyklický (iteratívny)
+- ostatné modely sú kombináciou základných tried
+	- špirálový (evolučný)
+	- prírastkový (inkrementálny)
+	- V-model
+	- atď.

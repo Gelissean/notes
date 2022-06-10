@@ -1,0 +1,5 @@
+- koľko má stupňov
+- koľko skladov má byť vybudovaných a kde
+- koľko pomocných skladov
+- odkiaľ má byť zákazník zásobovaný
+- z ktorého skladu má byť zásobovaný medzisklad

@@ -1,0 +1,3 @@
+- obaja účastníci sa dohodnú na kryptosystéme a kľúči
+- A šifruje priamy text $x$ ako $y=E_K(x)$
+- B dešifruje zašifrovaný text ako $x=D_K(y)$

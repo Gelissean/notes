@@ -1,0 +1,1 @@
+![[pokrývacia úloha.png]]

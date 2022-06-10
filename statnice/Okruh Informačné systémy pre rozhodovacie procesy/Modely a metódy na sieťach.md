@@ -1,0 +1,5 @@
+- Graf a špeciálne podgrafy ich typy a vlastnosti (orientácia, ohodnotenie, súvislosť, sled, cesta, ťah, kružnica), 
+- princípy metód vyhľadávania najkratších ciest na grafoch (metódy label set a label correct), 
+- modely základných úloh na sieťach (umiestňovacie úlohy, úlohy okružných jázd), 
+- heuristické metódy riešenia úloh na sieťach (primárne a duálne heuristiky, vkladacie a výmenné heuristiky, stratégie BA, FA, výhodnostný koeficient, dekompozičné heuristiky), 
+- princípy metaheuristík (simulated annealing, tabu search, genetické algoritmy).

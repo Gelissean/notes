@@ -1,0 +1,5 @@
+- Architektúry Databázových systémov a modelovanie databáz
+- integrita databáz, 
+- [[transakčné spracovanie]] a [[Paralelizmus]] databáz, 
+- konštrukcia databázových systémov, 
+-[[distribuované databázové systémy]].

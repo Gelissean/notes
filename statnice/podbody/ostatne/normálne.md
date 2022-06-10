@@ -1,0 +1,1 @@
+- gaussovo rozdelenie

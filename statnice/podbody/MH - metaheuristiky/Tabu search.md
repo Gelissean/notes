@@ -1,0 +1,15 @@
+- umožnuje prejsť k riešeniu s horšou hodnotou účelovej funkcie
+- prechádza k riešeniu s najmenšou hodnotou účelovej funkcie bez ohľadu na súčasné riešenie
+- volí sa stratégia najlepší vhodný alebo "cesta najmenšieho zla"
+- pre zabránenie cyklenia algoritmu sa vytvára zoznam zákazov (tabu)
+- ak bol prechod použitý, vloží sa do zoznamu zákazov celý alebo iba niektoré ich atribúty
+- expiračné pravidlo zabezpečuje časovo obmedzenú platnosť zákazu (napríklad tabu list v tvare fronty s obmedzenou dĺžkou)
+- aspiračné pravidlá
+	- algoritmus môže ignorovať zákaz prechodu ak je bod v okolí nepreskúmaný a má lepší výsledok učelovej funkcie
+	- ak sú všetky prechody zakázané je možné realizovať prechod k riešeniu s najmenšou hodnotou účelovej funkcie
+- pravidlá zastavenia
+	- po prejdenom počte iterácií alebo času
+	- pri žiadnej zmene najlepšieho riešenia po určitú dobu
+	- ak účelová funkcia dosiahne prahové hodnoty
+- **intenzifikácia** - reštartovanie procesu z doposiaľ najlepšieho riešenia
+- **diverzifikácia** - presun do málo prehliadaných oblastí

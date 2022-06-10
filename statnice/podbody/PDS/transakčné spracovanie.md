@@ -1,0 +1,51 @@
+- nutné zabezpečiť odolnosť voči chybám a paralelné vykonávanie transakcií
+- **transakcia** - základná jednotka práce databázového systému
+- možné chyby transakcií - porušenie integritných obmedzení, chyby aplikačných programov, zrušenie, systémové chyby, chyby média
+- begin, commit, rollback, abort, savepoint
+- stavy - aktívna, čiastnočne potvrdená, chybná, zrušená, potvrdená
+- precedencia operácií 
+	- dohľad na správne vykonanie poradia transakcií
+	- graf precedencií
+
+**Vlastnosti transakcie** (ACID - Atomic, Consistent, Isolated, Durable)
+- Atomicita
+	- transakcia sa vykoná buď celá, alebo ani jedna časť z nej
+- Konzistencia
+	- každá zmena stavu databázy končí v konzistentnom stave
+	- niekoľko úrovní konzistencie:
+		- prepisovanie dát inej transakcie
+		- nepotvrdenie zmeny pokiaľ nie sú ukončené všetky zmeny
+		- nečítanie dát inej transakcie
+		- iné transakcie nečítajú jej dáta
+- Izolovanosť
+	- zmenené dáta nezískajú iné transakcie, kým nie sú potvrdené
+	- problém vznikania anomálií v dátach
+- Perzistencia
+	- všetky výsledky transakcií sú uložené v databáze
+
+Typy transakcií:
+- podľa aplikácie
+	- centralizované
+	- distribuované
+- podľa doby trvania
+	- on-line
+	- batch
+- podľa štruktúry
+	- jednoduché
+	- hniezdené
+- podľa usporiadania čítania a zápisov
+	- všeobecné
+	- dvojkrokové - najskôr read, potom write
+	- obmedzené - každy objekt čítaný pred zápisom
+	- dvojkrokové obmedzené
+	- akčné - dvojica read a write sa vykonáva atomicky
+
+- všetky transakcie sú zachytené v logickom žurnále
+	- záznam obsahuje:
+		- ID transakcie
+		- ID činnosti
+		- ID operácie
+		- čas udalosti
+		- záznam PRED
+		- záznam PO
+		- záznam z CHECKpointu

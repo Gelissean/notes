@@ -1,0 +1,9 @@
+- založená na princípe hladania potravy
+- mravec je jednoduchý prvok, kolónia komplexný a prísne štruktúrovaný systém
+- mravec nevidí celú sieť, iba vzdialenosť k susedným uzlom
+- algoritmus:
+	- mravec sa rozhoduje k vykonaniu prechodu podľa náhodnej pravdepodobnosti (získanej softmaxom dĺžky ciest)
+	- mravec si pamätá kade išiel a ako sa dostal do uzlu prvý krát
+	- mravec končí keď nasiel cieľ
+	- mravec ide naspäť po svojich stopách a zanecháva feromóny, ktoré ovplyvnia vyhľadávací algoritmus (váha hrany)
+	- po každej iterácií sa odparujú hodnoty feromónov (normalizácia váh hrán)

@@ -1,0 +1,7 @@
+- Dopravný systém, grafický a matematický model, 
+- modelovanie nákladov na úsekoch, 
+- princípy metód vyhľadávania najkratších ciest (metódy label set a label correct), 
+- formulácia a modely základných úloh na sieťach (dopravná úloha, umiestňovacia úloha, úlohy okružných jázd), 
+- heuristické metódy riešenia (primárne a duálne heuristiky), 
+- teória dopravného prúdu, 
+- optimálne riadenie dynamických systémov (vlakov). 

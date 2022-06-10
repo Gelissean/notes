@@ -1,0 +1,5 @@
+- čísla sú generované aritmetickými generátormi, označujú sa pseudonáhodné - zdajú sa byť náhodné
+- neexistuje ideálny generátor
+- sú opakovateľné
+- sú prenositeľné
+- dajú sa meniť zmenou násady

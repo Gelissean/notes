@@ -1,0 +1,5 @@
+- self-adjusting
+- najhoršia zložitosť operácií je **O(n)**
+- jednorozmerné intervalové vyhľadávanie
+- operácia **splay** je vykonaná po každom prístupe k vrcholu s kľúčom
+	- sled rotácií, po ktorom je koreňom hľadaný/vkladaný vrchol

@@ -1,0 +1,7 @@
+- verejné systémy
+	- úloha s obmedzeným dosahom
+	- [[úloha o p-centrách]]
+	- [[úloha o p-mediánoch]]
+- súkromné systémy
+	- [[umiestňovacia úloha maximálneho pokrytia]]
+	- umiestňovacia úloha s fixnými sadzbami

@@ -1,0 +1,13 @@
+- [[štruktúra distribučného systému]] a [[metódy návrhu distribučných skladov]],
+- úlohy taktického rozhodovania ([[úloha odberných dní]]), 
+- [[úloha okružných jázd]], 
+- úplná úloha návrhu distribučného systému a jej dekompozícia, 
+- model dopravnej siete a metódy hľadania najlacnejších ciest, 
+- [[verejné a súkromné obslužné systémy]], 
+- [[heuristiky]] a [[metaheuristiky pre riešenie logistických úloh]], 
+- harmonogramy dodávok, 
+- [[optimalizácia odberných dní]], 
+- [[úlohy okružných jázd]] a metódy ich riešenia, 
+- metódy riešenia [[úlohy obsluhy úsekov dopravnej siete]], 
+- špeciálne heuristiky pre riešenie úloh okružných jázd, 
+- časové rozvrhy.

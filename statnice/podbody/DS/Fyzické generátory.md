@@ -1,0 +1,6 @@
+- rôzne zdroje entropie
+	- lávové lampy
+	- tepelný šum (kamera)
+	- rádioaktívny rozpad prvkov
+	- elektrický šum
+	- kvantové javy

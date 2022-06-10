@@ -1,0 +1,9 @@
+- Statické modelovanie (metóda Monte Carlo),
+- Algoritmizácie [[Simulačný model]], [[Metóda plánovania udalostí]], etapy simulačného projektu, modelovanie vstupných dát, analýza výsledkov simulačných experimentov (simulácia s ukončením, simulácia bez ukončenia s ustálenými podmienkami),
+- spojitá a kombinovaná simulácia (princíp, využitie, metódy), 
+- [[generátory]] [[náhodný]]ch čísiel ([[Pseudonáhodné čísla]], [[Kongruenčné generátory náhodných čísiel]]), 
+- [[Testovanie generátorov]] [[náhodný]]ch čísiel (teoretické a empirické testy), 
+- [[Generovanie náhodných veličín]] (metóda inverznej transformácie, metóda prijatia a odmietnutia),
+- [[Agentovo orientovaná simulácia]] architektúry simulačných modelov, 
+- [[Distribuovaná simulácia]], 
+- konzervatívne a optimistické metódy synchronizácie distribuovaných simulačných modelov.

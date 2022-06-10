@@ -1,0 +1,14 @@
+- kategorizácia
+	- z hľadiska využitia
+		- TPS - transakčné
+		- MIS - manažérske
+		- DSS - na podporu rozhodovania
+	- z hľadiska účelu
+		- IS pre výrobné systémy
+		- na podporu predaja a marketingu
+		- finančné a účtovnícke
+		- na podporu správy ľudských zdrojov
+	- z hľadiska riadenia podnikov
+		- strategické - plánovanie, napr. investícií
+		- taktické - pre potreby riadenia, kontroly, rozhodovania
+		- operatívne - využívané v prevádzke

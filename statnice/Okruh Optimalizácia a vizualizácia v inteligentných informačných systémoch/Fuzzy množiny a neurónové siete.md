@@ -1,0 +1,8 @@
+- Fuzzy množiny ([[funkcia príslušnosti]], konvexnosť, [[normovanosť]], [[T-norma]] a  [[T-conorma]]), 
+- [[fuzzy číslo]] (trojuholníkové, lichobežníkové, aritmetické operácie na fuzzy číslach, [[porovnávanie fuzzy čísiel]]), 
+- fuzzy relácie (skladanie fuzzy relácií, princíp rozšírenia, if-then relácia, pravidlo odvodzovania), 
+- [[úlohy lineárneho programovania s neistými koeficientmi]], 
+- [[Tanaka-Assaiova metóda]]
+- Neurón a neurónová sieť ([[typi sietí]]),
+- [[tréning neurónovej siete]], 
+- optimalizácia pomocou neurónovej siete. 

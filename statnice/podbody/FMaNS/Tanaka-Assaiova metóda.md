@@ -1,0 +1,3 @@
+- postupne sixujeme hodnoty $h$ (hladiny dôverihodnosti) na vyššiu hodnoto a vždy riešime úlohu lineárneho programovania pre pôvodnú účelovú funkciu
+- úloha končí keď prestane mať prípustné riešenie
+- optimálnym riešením je najvyššie dosiahnuté $h$

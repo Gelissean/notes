@@ -1,0 +1,5 @@
+- dopredné
+- so spätnou väzbou
+	- vstupy môžu byť napojené z výstupov tej istej ale aj nasledujúcej vrstvy
+	- po dobu výpočtu sa vstupy nemenia
+	- využitie napríklad v úlohe optimálneho rozkladu grafu

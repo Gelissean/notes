@@ -1,0 +1,5 @@
+- možných viacero spôsobov
+	- jedným z nich metóda Kaufmann a Gupta:
+		- vypočítanie doplnkov, väčšia hodnota odpovedá väčšiemu fuzzy číslu, inak
+		- porovnanie hodnôt s maximálnou hodnotou príslušnosti, väčšia zodpovedá väčšiemu fuzzy čislu, inak
+		- porovnanie dĺžok základní oboch fuzzy čísel![[kaufman gupta.png]]

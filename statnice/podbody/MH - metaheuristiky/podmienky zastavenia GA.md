@@ -1,0 +1,3 @@
+- diverzita
+	- mierou diverzity je napríklad podiel najčastejšieho výskytu tej istej hodnoty na danej pozicií chromozómu
+	- odporúča sa zastaviť ak sa diverzita zníži pod istú uroveň

@@ -1,0 +1,103 @@
+{
+  "main": {
+    "id": "df721e1c0ba6ed73",
+    "type": "split",
+    "children": [
+      {
+        "id": "de409566b3a78cf8",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Home.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "faf9c9ce690ee767",
+    "type": "split",
+    "children": [
+      {
+        "id": "ba1b0957a01795b4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "618244229be5301d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "16292dea55c25f38",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f260a6a7f26a8112",
+    "type": "split",
+    "children": [
+      {
+        "id": "5fb91b45c4f82ccd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4d34f239b7ac9d96",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Home.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "de409566b3a78cf8",
+  "lastOpenFiles": [
+    "Home.md",
+    "obrázky/ostatne/simplex1.png",
+    "Okruh Optimalizácia a vizualizácia v inteligentných informačných systémoch/Logistické systémy.md",
+    "Okruh Optimalizácia a vizualizácia v inteligentných informačných systémoch/Optimalizačné procesy a ich implementácia.md",
+    "Okruh Optimalizácia a vizualizácia v inteligentných informačných systémoch/Získavanie znalostí z dát.md",
+    "Okruh Optimalizácia a vizualizácia v inteligentných informačných systémoch/Fuzzy množiny a neurónové siete.md",
+    "Okruh Informačné systémy pre rozhodovacie procesy/Kryptografia a bezpečnosť.md",
+    "Okruh Informačné systémy pre rozhodovacie procesy/Diskrétna simulácia.md",
+    "podbody/DS/Testovanie generátorov.md",
+    "podbody/DS/Generovanie náhodných veličín.md"
+  ]
+}

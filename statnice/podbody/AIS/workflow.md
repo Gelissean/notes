@@ -1,0 +1,9 @@
+- automatizácia podnikových procesov
+	- celku alebo častí
+	- dokumenty alebo informácie sú presúvané od jedného účastníka k druhému pre ďalšie spracovanie
+- riadi poradie pracovných operácií a aktivuje príslušné zdroje
+- typy podľa charakteru:
+	- administratívne systémy - rutinné činnosti admin. charakteru, účastníci sú iba príležitostní, workflow nie je ich hlavnou náplňou
+	- ad hoc workflow - náhodnosť vzniku workflow procesu, nie sú štandardizované, odpoveď na otázku zákazníka, spracovanie výčornej správy, riešenie neštandardnej reklamácie
+	- kolaboratívne WF - tímová spolupráca, účastníci si vymieňajú poznatky
+	- produkčné WF - hlavné podnikové procesy

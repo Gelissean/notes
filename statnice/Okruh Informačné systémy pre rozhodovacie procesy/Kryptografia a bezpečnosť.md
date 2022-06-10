@@ -1,0 +1,6 @@
+- Všeobecné [[základy kryptografie]] (účely kryptografie, kryptografický systém, zásady [[bezpečnosť]]i, typy útokov), 
+- [[Klasické šifry]] a metódy klasickej kryptoanalýzy ([[frekvenčná analýza]], [[index_koincidencie]]), 
+- súčasná [[symetrická kryptografia]] (systémy [[Feistel]]ovho typu, [[DES]], [[AES]]), 
+- [[kryptografia s verejným kľúčom]] a [[RSA]] algoritmus, 
+- [[prúdové šifry]] ([[One time pad]], [[systémy založené na generátoroch pseudonáhodných čísel]]), 
+- identifikácia, autentifikácia a [[digitálny podpis]].

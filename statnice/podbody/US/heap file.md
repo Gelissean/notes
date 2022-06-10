@@ -1,0 +1,2 @@
+- neutriedená tabuľka na disku
+- priamy alebo sekvenčný prístup

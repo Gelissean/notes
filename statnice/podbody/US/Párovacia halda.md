@@ -1,0 +1,10 @@
+- prioritný front
+- kľúč - **priorita**
+- k-cestný haldovo usporiadaný strom (obvykle transformovaný na binárny)
+- operácia páruj
+	- spojenie dvoch háld do jednej, koreň haldy s nižšou prioritou sa stane najľavším synom koreňa haldy s vyššou prioritou
+- vkladanie - operácia páruj s jednoprvkovou množinou
+- pri odoberaní vznikne 
+- pri konvertovaní na binárny strom
+	- ľavý syn je najľavší syn
+	- pravý syn je brat uzla

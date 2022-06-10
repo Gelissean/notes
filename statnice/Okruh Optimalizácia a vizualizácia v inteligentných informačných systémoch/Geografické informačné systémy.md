@@ -1,0 +1,6 @@
+- Modelovania zemského povrchu (základné pojmy z kartografie, priestorové modely zobrazovania, počítačová grafika), 
+- údajové štruktúry používané v GIS (vektorové, rastrové, atribútové informácie, metainformácie, väzby údajov do vrstiev, väzby medzi vrstvami), 
+- získavanie údajov – digitalizácia (riadená a neriadená rasterizácia, vektorizácia, rozpoznávanie textov, metódy spájania a doplnenia údajov získaných z rôznych podkladov a zdrojov),
+- vektorové analýzy (zjednotenie elementov, výrez na základe inej mapy, buffer, priradenie atribútov na základe pozície, geokódovanie, sieťové analýzy),
+- rastrové analýzy (vzdialenostné, nákladové, zhluková analýza, predikcia zmien v čase a priestore), 
+- multikriteriálne analýzy (využitie fuzzy kriviek na normalizáciu kritérií, stanovenie váh účelovej funkcie, riešenie konfliktných cieľov). 

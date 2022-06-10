@@ -1,0 +1,3 @@
+- operácie čítaj, zapíš, zruš, modifikuj
+- pre šetrenie práce s diskom zapisovať a čítať v bufferoch
+- priestor môže byť pridelený staticky a dynamicky

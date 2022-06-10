@@ -1,0 +1,10 @@
+- [[Základné pojmy]], [[typy informačných systémov]], služby a aplikácie informačných systémov;
+- [[riadenie projektov]], koncepcia projektu, plán projektu, realizácia a odovzdanie projektu; všeobecné princípy tvorby systémov; 
+- metódy a postupy návrhov systémov; [[strategické plánovanie informačných systémov]]; 
+- [[procesný prístup]] a [[workflow]]; 
+- modely a modelovanie informačných systémov; 
+- [[Živontný cyklus informačného systému]], [[modely životného cyklu]];
+- metodiky návrhu informačných systémov; 
+- [[štruktúrovaná analýza]] a štruktúrované navrhovanie;
+- objektová analýza a objektové navrhovanie; 
+- [[meranie výkonnosti informačných systémov]]/metrika informačných systémov.

@@ -1,0 +1,2 @@
+- opak [[binomické]]
+- pravdepodobnosť výskytu jedného javu v n opakovaniach

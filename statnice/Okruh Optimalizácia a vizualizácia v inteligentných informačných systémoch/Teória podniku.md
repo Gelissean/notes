@@ -1,0 +1,6 @@
+- Východiskové problémy hospodárstva, 
+- výroba, dopyt, ponuka, 
+- rovnováha a nerovnováha, 
+- alokácia zdrojov, a všeobecná rovnováha, 
+- teória obnovy výrobných prostriedkov, 
+- teória zásob. 

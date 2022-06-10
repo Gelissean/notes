@@ -1,0 +1,6 @@
+- Pravdepodobnostné a štatistické vlastnosti údajov a ich číselné charakteristiky (rozdelenia pravdepodobnosti - [[binomické]], [[geometrické]], [[Poissonovo]], [[normálne]], gama, ich charakteristiky stredná hodnota, rozptyl, kvantily), 
+- intervalové charakteristiky normálneho rozdelenia, 
+- [[lineárna regresia]] (metóda najmenších štvorcov), 
+- princípy exaktných optimalizačných metód ([[simplex]]ová metóda, metóda vetiev a hraníc), 
+- typové úlohy lineárneho programovania a ich modely (úloha plánovania výroby, zmiešavacie úloha, dopravná úloha),
+- typové úlohy celočíselného lineárneho programovania a ich modely (úloha o batohu, úloha plánovania výroby s nedeliteľnosťou).

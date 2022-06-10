@@ -1,0 +1,16 @@
+- konvexná fuzzy množina, ktorej funkcia príslušnosti dosahuje hodnoty od 0 po 1
+
+- aritmetické operácie
+	- sčítanie
+		- $<a_l,a_r>+<b_l,b_r>=<a_l+b_l,a_r+b_r>$
+	- odčítanie
+		- $<a_l,a_r>-<b_l,b_r>=<a_l-b_r,a_r-b_l>$
+	- násobenie
+		- ak sú obe > 0 $<a_l,a_r>*<b_l,b_r>=<a_l*b_l,a_r*b_r>$
+		- ak sú obe < 0 $<a_l,a_r>*<b_l,b_r>=<a_r*b_r,a_l*b_l>$
+		- všeobecne $<$minimum súčinov, maximum súčinov$>$
+	- delenie
+		- ani jeden z intervalov nesmie obsahovať 0
+		- všeobecne $<$minimum po delení, maximum po delení$>$
+	- násobenie reálnym čislom
+		- každý element sa vynásobí reálnym číslom
